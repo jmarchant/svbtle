@@ -34,6 +34,11 @@ time, mark, audio, video {
 		width:75%;
 		float:left;
 	}
+
+		#container p {
+			margin: 15px 0px;
+		}
+
 		#featured{
 			line-height: 50px;
 			font-family:
